@@ -1,0 +1,31 @@
+{
+  "name": "node-ls",
+  "version": "1.0.0",
+  "description": "Home tasks for \"Node.JS - backend JavaScript\" course from Loftschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksii-l/node-loftschool.git"
+  },
+  "keywords": [
+    "Node.JS",
+    "Loftschool"
+  ],
+  "author": "Oleksii Leshchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksii-l/node-loftschool/issues"
+  },
+  "homepage": "https://github.com/oleksii-l/node-loftschool#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
