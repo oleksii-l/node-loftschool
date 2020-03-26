@@ -1,0 +1,31 @@
+{
+  "name": "loftschool",
+  "version": "1.0.0",
+  "description": "Node.JS repository for home task during \"Node.JS - backend JavaScript\" course from Loftschool",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksii-l/node-loftschool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksii-l/node-loftschool/issues"
+  },
+  "homepage": "https://github.com/oleksii-l/node-loftschool#readme"
+}
